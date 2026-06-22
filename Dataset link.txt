@@ -1,0 +1,10 @@
+Speech Commands audio https://storage.googleapis.com/download.tensorflow.org/data/speech_commands_v0.01.tar.g
+
+
+Follow the instructions below so it runs smoothly. below, address saved in the code for loading 
+
+
+1. create folder and give that folder name "Dataset"
+2. Download speech_commands_v0.01.tar.g  move Dataset
+3. unzip    speech_commands_v0.01.tar.g in Dataset
+4. rename "speech_commands_v0.01.tar.g" unzip folder speech_commands
